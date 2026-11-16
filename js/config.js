@@ -15,7 +15,7 @@ window.BOMBA_CONFIG = {
   // Tetamu kehormat (sebelah kanan skrin login). Gambar: public/assets/person.png
   guest: {
     title: 'VIP PERASMI',
-    name: 'YBHG. DATUK WIR DR. M NOOR AZMAN BIN TAIB',
+    name: 'YBHG. DATUK WIRA DR. M NOOR AZMAN BIN TAIB',
     role: 'KETUA SETIAUSAHA KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN',
     // Kotak imbasan muka (peratus daripada tinggi bingkai gambar)
     faceTop: '4%',       // naik = nombor kecil, turun = nombor besar
