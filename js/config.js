@@ -18,9 +18,9 @@ window.BOMBA_CONFIG = {
     name: 'YBHG. DATUK WIR DR. M NOOR AZMAN BIN TAIB',
     role: 'KETUA SETIAUSAHA KEMENTERIAN PERUMAHAN DAN KERAJAAN TEMPATAN',
     // Kotak imbasan muka (peratus daripada tinggi bingkai gambar)
-    faceTop: '8%',       // naik = nombor kecil, turun = nombor besar
-    faceSize: '27%',     // saiz kotak
-    faceLeft: '50%',     // kiri/kanan (50% = tengah)
+    faceTop: '4%',       // naik = nombor kecil, turun = nombor besar
+    faceSize: '31%',     // saiz kotak
+    faceLeft: '48.5%',     // kiri/kanan (50% = tengah)
   },
   successDelayMs: 2000,      // tempoh skrin radar + boot log
 
